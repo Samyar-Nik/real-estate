@@ -1,1 +1,4 @@
 @import "tailwindcss";
+
+.coutom-filter 
+{  filter: blur(64px);}
